@@ -1,15 +1,15 @@
 {
   "name": "Habit.app",
-  "short_name": "Habit",
+  "short_name": "Habit app",
   "start_url": ".",
   "display": "standalone",
   "background_color": "#0f172a",
   "theme_color": "#22c55e",
   "icons": [
     {
-      "src": "icon.png",
+      "src": "iconv.png",
       "sizes": "192x192",
-      "type": "png"
+      "type": "image/png"
     }
   ]
 }
